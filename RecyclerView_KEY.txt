@@ -1,0 +1,57 @@
+A- Programming code:-
+    1- code with UI.
+    2- console code.
+
+------------------------------------------------------------------------------------------------------
+B- Code with UI created the problem of graphics handling.
+------------------------------------------------------------------------------------------------------
+
+C- Graphics Hangling System:-
+
+  prob_1:- programmers need readymade code for UI
+  Solunn:- Ready Liberaries.
+
+  Prob_2:- Order Problme
+  Solu  :- Markup Languages
+
+  Prob_3:- The Cooker Probleme
+  Solu  :- Os/Browsers
+	
+  Prob_4:- Control Connection Probleme
+  Solu  :- Creating Variable
+
+For Recycler View Add problme_5 :- Specification Probleme
+                      Solu      :- Recycler View Sys in android(adapter/viewHolder...).
+
+---------------------------------------------------------------------------------------------------------
+
+D- RecyclerView Mechanism:-
+	1- Creat it.
+	2- Deliver adapter
+	3- Vertical or Horizontal
+
+--------------------------------------------------------------------------------------------------------
+E- ViewHolder is solving the problem_4 in graphic handling system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
